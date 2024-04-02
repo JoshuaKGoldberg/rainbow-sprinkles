@@ -29,7 +29,7 @@
     "@changesets/cli": "2.26.1",
     "@preconstruct/cli": "2.4.4",
     "@types/jest": "28.1.8",
-    "@types/lodash.merge": "4.6.7",
+    "@types/lodash.merge": "4.6.9",
     "@types/node": "18.7.14",
     "@types/react": "18.0.33",
     "@types/react-dom": "18.0.11",
